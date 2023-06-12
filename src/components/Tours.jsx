@@ -1,6 +1,6 @@
 import React from 'react'
 import { tours } from './Constants'
-import image from '../assets/about.jpeg'
+// import image from '../assets/about.jpeg'
 
 
 const Tours = () => {
